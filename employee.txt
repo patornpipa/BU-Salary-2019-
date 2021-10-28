@@ -1,0 +1,11 @@
+ ID   fname    lname   sex  pay  emptype
+1023  Somchai  Maithai  M  16000    M
+1043  Somwang  Dandjai  M  350      D
+1012  Maliwan  Pandee   F  350      D
+1045  Sompong  Longdai  M  17000    M
+1078  Natalee  Preda    F  15500    M
+1001  Opas     Madee    M  20000    M  
+1025  Yugi     Hiro     F  350      D
+1005  Auto     Mobile   M  325      D
+1089  Banpod   Sudyode  M  300      D
+1042  Manee    Mena     F  15000    M
